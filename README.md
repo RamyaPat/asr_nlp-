@@ -20,21 +20,38 @@ ESLint
 HTML and CSS
 Project Structure
 text
+
 asr_nlp-/
-├── asr_accent_adaptation/
-├── src/
-├── .gitignore
-├── README.md
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.node.json
-└── vite.config.ts
+|
+|-- asr_accent_adaptation/
+|
+|-- src/
+|
+|-- .gitignore
+|
+|-- README.md
+|
+|-- eslint.config.js
+|
+|-- index.html
+|
+|-- package.json
+|
+|-- package-lock.json
+|
+|-- postcss.config.js
+|
+|-- tailwind.config.js
+|
+|-- tsconfig.app.json
+|
+|-- tsconfig.json
+|
+|-- tsconfig.node.json
+|
+|-- vite.config.ts
+
+
 
 Prerequisites
 
